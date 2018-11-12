@@ -44,7 +44,7 @@
 .list1{
     color: #808080;
     font-family: Lucida Sans Unicode, sans-serif;
-    font-size: 26px;
+    font-size: 20px;
     letter-spacing: 1px;
     margin-left: 250px;
     text-align: left
@@ -54,9 +54,9 @@
 .list2{
     color: #808080;
     font-family: Lucida Sans Unicode, sans-serif;
-    font-size: 26px;
+    font-size: 20px;
     letter-spacing: 1px;
-    margin-left: 330px;
+    margin-left: 290px;
     text-align: left
 
 }
@@ -65,7 +65,7 @@
 .column {
 
     float: left;
-    width: 48%;
+    width: 45%;
 }
 
 .row:after {
@@ -189,7 +189,7 @@
     font-family: arial black;
     font-size: 80px;
     margin-left: 0px;
-    margin-top: 1000px;
+    margin-top: 600px;
     text-align: center;
     line-height: .3;
 }
