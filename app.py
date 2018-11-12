@@ -3,7 +3,7 @@ import json
 import requests
 
 app = Flask(__name__)
-@app.route('/bab'):
+@app.route('/bab')
   return "hello bab"
 @app.route('/')
 def home_page():
